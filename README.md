@@ -1,5 +1,5 @@
 # Covid-Vaccine-tweets-classification-app
-
+![sentiment_analysis](./images/sentiment%20analysis.jpg)
 ## About
 This is a streamlit app for deep learning models to classifiy covid-19 vaccination tweets whether they are positive,negative or neutral.
 
