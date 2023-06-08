@@ -36,7 +36,7 @@ NB: For MacOs users, please install Xcode if you have an issue.
 ##  Usage
 Download or Clone the repository and navigate to the project directory. Clone this repository to your local machine using the following command:
 
-https://huggingface.co/spaces/Pendo/Covid_tweet_sentiment_analysis
+https://github.com/Pendopr/Covid-Vaccine-tweets-prediction-app
 
 ##  Execution
 To run the app, use this command;
